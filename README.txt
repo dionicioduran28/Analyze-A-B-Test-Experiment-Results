@@ -1,1 +1,1 @@
-This respository contains a Python Jupyter Notebook which analyzes the results of an A/B Test Experiment ran by an e-commerce website.
+This respository contains a Python Jupyter Notebook which analyzes the results of an A/B Test Experiment ran by an e-commerce website. In orderd to run this notebook, please download the associted .csv files as well as the .ipynb file and save to the same directory. 
